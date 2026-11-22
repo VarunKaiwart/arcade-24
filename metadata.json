@@ -1,0 +1,8 @@
+{
+  "name": "DuelZone",
+  "description": "Real-time 1v1 multiplayer gaming arena featuring Tic-Tac-Toe, Rock Paper Scissors, and Connect Four with private rooms, random matchmaking, XP progression, and leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
